@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Python, C, C++
 - 🤔 I’m looking for help with Django
 - 💬 Ask me about C,C++
-- 📫 How to reach me: abhishek@2001tiwari@gmail.com
+- 📫 How to reach me: abhishek2001tiwari@gmail.com
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
