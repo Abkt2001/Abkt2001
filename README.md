@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br><br>
+<a href="https://github.com/Abkt2001/Abkt2001">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Abkt2001&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Abhishek's github stats" />
+</a>
+<a href="https://github.com/Abkt2001/Abkt2001">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abkt2001&layout=compact&theme=material-palenight" alt="Abhishek's Tech Language stats" />
+</a>
